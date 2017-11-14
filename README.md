@@ -1,5 +1,9 @@
 # VGG-Face-Logistic-Regression
-Classifying images of faces using the same technique as the controversial "Gaydar" that could guess the sexual orientation used: https://psyarxiv.com/hv28a/
+Classifying images of faces using the same technique as the controversial "Gaydar" that could guess sexual orientation: https://psyarxiv.com/hv28a/
+
+
+## How it works
+This program takes an embedding from a pretrained VGG Face model, then applies PCA or Truncated SVD on it and at last doing Logistic Regression.
 
 
 ## Requirements
