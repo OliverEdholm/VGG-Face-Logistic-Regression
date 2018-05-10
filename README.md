@@ -1,5 +1,5 @@
 # VGG-Face-Logistic-Regression
-Classifying images of faces using the same technique as the controversial "Gaydar" that could guess sexual orientation: https://psyarxiv.com/hv28a/
+Classifying images of faces using the same technique this paper used: https://psyarxiv.com/hv28a/
 
 
 ## How it works
